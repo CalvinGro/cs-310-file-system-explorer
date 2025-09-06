@@ -1,0 +1,16 @@
+CS 310 - W2 Filesystem Explorer.txt
+Author - Calvin Gross
+
+How do you accept command-line arguments?
+  - I used $1, this represents the first argument. This can 
+    also be extrapulated out to other arguments: $2, $3, etc.
+
+
+What other programs did you use to complete this assignment?
+  - I used stat, numfmt, file, cut, and echo. 
+
+    stat: prints statistics
+    numfmt: formats the stat to be human readable
+    file: prints mime type when provided --mime-type
+    cut: cuts out unnecessary parts of a str
+    echo: print statement

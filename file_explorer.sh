@@ -4,7 +4,6 @@
 # Description: This program prints out the file pathway, file type,
 #              file size, and mime of each file in a given directory.
 
-
   # $1 is the argument, a directory.
 for i in $1*
 do
